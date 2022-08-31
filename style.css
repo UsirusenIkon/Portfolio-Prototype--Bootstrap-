@@ -25,11 +25,11 @@ body {
 }
 
 .illustration {
-  width: -webkit-fill-available;
-  position: absolute;
-  content: url(asset/header-shapes-mobile.png);
-  top: 10%;
-  z-index: 100;
+  background-image: url(asset/Header-laptop.png);
+  background-size: contain;
+  background-position: right;
+  background-repeat: no-repeat;
+  height: 100vh;
 }
 
 .hero-section {
