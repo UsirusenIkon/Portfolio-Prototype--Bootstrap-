@@ -35,3 +35,10 @@ body {
 .hero-section {
   z-index: 500;
 }
+
+.about {
+  background-image: url(asset/form-back2-desktop.svg);
+  background-size: contain;
+  background-position: right;
+  background-repeat: no-repeat;
+}
