@@ -1,0 +1,37 @@
+@import url("https://fonts.googleapis.com/css2?family=Crete+Round&family=Inter:wght@500;700&family=Open+Sans:ital@1&family=Poppins&family=Roboto:wght@500&family=Tiro+Devanagari+Marathi:ital@1&display=swap");
+
+/* $-custom Properties-$ */
+:root {
+  --primary-color: #6070ff;
+  --secondary-color: #505f79;
+  --background-color: #fff;
+  --last-btn-color: #396df2;
+  --p-text-color: #344563;
+  --BED-color: #7a869a;
+  --l-connect: #7f8cff;
+}
+
+/* $-Css Resets-$ */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  border: none;
+}
+
+body {
+  font-family: "Poppins", sans-serif;
+  background-color: #e5e5e5;
+}
+
+.illustration {
+  width: -webkit-fill-available;
+  position: absolute;
+  content: url(asset/header-shapes-mobile.png);
+  top: 10%;
+  z-index: 100;
+}
+
+.hero-section {
+  z-index: 500;
+}
