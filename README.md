@@ -3,6 +3,9 @@
 ## Portfolio-Prototype--Bootstrap-
 Creating a portfolio with bootstrap framework 
 
+![screenshot](asset/Portfolio-Prototype-Bootstrap.png)
+![screenshot](asset/Desktop-Portfolio-Prototype-Bootstrap.png)
+
    
    The objectives of this project is to:
     
